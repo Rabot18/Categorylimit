@@ -1,2 +1,3 @@
-glowing-computing-machine
+Categorylimit
 =========================
+Augmenter limite de sauvegarde de produits pour une catégorie sous Magento
