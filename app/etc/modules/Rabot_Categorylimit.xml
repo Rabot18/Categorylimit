@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+	<config>
+		<modules>
+			<Rabot_Categorylimit>
+				<active>true</active>
+				<codePool>local</codePool>
+			</Rabot_Categorylimit>
+		</modules>
+	</config>

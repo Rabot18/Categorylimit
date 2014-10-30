@@ -1,0 +1,11 @@
+<config>
+   <admin>
+      <routers>
+         <adminhtml>
+            <args>
+               <rabot_categorylimit before="Mage_Adminhtml">Rabot_Categorylimit_Adminhtml</rabot_catergorylimit>
+            </args> 
+         </adminhtml>
+      </routers>
+   </admin>
+</config>
